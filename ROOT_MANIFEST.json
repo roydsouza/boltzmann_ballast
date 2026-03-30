@@ -1,0 +1,41 @@
+{
+  "project_name": "boltzmann_ballast",
+  "project_id": "bb-ops-01",
+  "version": "0.1.0-alpha",
+  "description": "Agentic Ops Substrate: Observability, Orchestration, and Entropy Management for Autonomous Swarms.",
+  "paradigm": "Thermodynamic Stability & Deterministic Reliability",
+  "owner": "Roy",
+  "repository": "https://github.com/roydsouza/boltzmann_ballast",
+  "core_objectives": [
+    "Monitor semantic and execution entropy across the agentic fleet.",
+    "Orchestrate agent heartbeats with PQC-signed attestation.",
+    "Provide high-fidelity telemetry for Singularity PDP decision-making.",
+    "Stabilize non-deterministic drift through automated ballast routines."
+  ],
+  "architecture_layers": {
+    "telemetry": {
+      "component": "accretion_axis",
+      "description": "Centralized log and metric ingestion for all substrate events."
+    },
+    "monitoring": {
+      "component": "entropy_engine",
+      "description": "Statistical analysis of agent behavioral drift vs. baseline."
+    },
+    "orchestration": {
+      "component": "ballast_control",
+      "description": "Process management, scaling, and emergency halt (kill-switch) protocols."
+    }
+  },
+  "security_spec": {
+    "auth_mechanism": "Hybrid PQC (ML-DSA-65) + FIDO2",
+    "data_posture": "Local-First / Air-Gapped Telemetry",
+    "audit_standard": "OWASP Agentic Top 10 (2026)"
+  },
+  "tags": [
+    "AgentOps",
+    "Observability",
+    "Reliability-Engineering",
+    "Sovereign-Tech"
+  ]
+}
+
