@@ -5,6 +5,12 @@
 
 ---
 
+## ⛓️ Phase 0: event_horizon_core Integration (Prerequisite)
+
+- [ ] **BLOCKER**: Complete finalized development of `event_horizon_core` (~/antigravity/event-horizon-core/)
+- [ ] Implement substrate-to-core binding for high-performance agent orchestration
+- [ ] Verify PQC-signed communication path between `boltzmann_ballast` and the event-horizon substrate
+
 ## 🏗️ Phase 1: Core Substrate Initialization
 
 - [x] Initial GitHub repository check-in
