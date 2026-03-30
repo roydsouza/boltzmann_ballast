@@ -1,0 +1,29 @@
+# boltzmann_ballast .gitignore
+
+# Databases and State
+*.db
+*.sqlite
+*.sqlite3
+data/
+
+# Logs and Errors
+*.log
+ERRORS.md
+LOGS.md
+
+# OS and IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Dependencies and Build Artifacts
+node_modules/
+target/
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Project specific
+accretion.log
+!accretion.log.example
